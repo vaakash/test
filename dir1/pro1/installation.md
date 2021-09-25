@@ -10,4 +10,16 @@ Link to [pro2](../pro2/installation.md)
 
 ### HTML test
 
-<a href="/_images/pic1.jpg" data-lightbox="pro" data-title="This is a test"><img src="/_images/pic1.jpg" class="wp-post-image" /></a>
+<a href="/wordpress/wp-content/uploads/pic2-1.jpg" data-lightbox="pro" data-title="This is a test"><img src="/wordpress/wp-content/uploads/pic2-1.jpg" class="wp-post-image" /></a>
+
+#### Multiline HTML
+
+<div>
+    <a href="/wordpress/wp-content/uploads/pic2-1.jpg" data-lightbox="pro" data-title="This is a test">
+        <img src="/wordpress/wp-content/uploads/pic2-1.jpg" class="wp-post-image" />
+    </a>
+</div>
+
+#### Shortcode
+
+[gallery ids="2952,2947,2937,2931"]
