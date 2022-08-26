@@ -1,7 +1,7 @@
 ---
 title: Testing schedule
 post_status: future
-post_date_gmt: 2022-08-27 18:00:00
+post_date: 2022-08-31 18:00:00
 taxonomy:
     category:
         - Blog
