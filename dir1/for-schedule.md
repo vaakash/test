@@ -1,12 +1,10 @@
 ---
 title: Testing schedule
-post_status: draft
-post_date: 2022-11-15 09:23:16
+post_status: future
+post_date: 2022-11-29 09:23:16
 taxonomy:
-    category:
-        - Blog
-    post_tag:
-        - hello
+    doc_category:
+        - misc
 ---
 
-Lorem ipsum 3 ⚡
+Lorem ipsum 4 ⚡
