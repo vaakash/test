@@ -1,7 +1,7 @@
 ---
 title: Testing schedule
-post_status: future
-post_date: 2022-10-12 13:23:16
+post_status: draft
+post_date: 2022-11-15 09:23:16
 taxonomy:
     category:
         - Blog
@@ -9,4 +9,4 @@ taxonomy:
         - hello
 ---
 
-Lorem ipsum 2 ⚡
+Lorem ipsum 3 ⚡
