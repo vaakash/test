@@ -1,5 +1,6 @@
 ---
 title: Installation
+comment_status: open
 ---
 
 ## Pro 1 installation
