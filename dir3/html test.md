@@ -17,6 +17,8 @@ order: 1
     </ul>
 </nav>
 
+✨ ✨ ✨ ✨ ✨ ✨ ✨
+
 <!-- Main Content Section -->
 <main>
     <section id="home">
@@ -41,6 +43,16 @@ order: 1
             function showMessage() {
                 alert('Thank you for contacting us!');
             }
+            
+            const emailRegex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+
+            const email = "example@email.com";
+            if (emailRegex.test(email)) {
+                console.log("Valid email address");
+            } else {
+                console.log("Invalid email address");
+            }
+            
         </script>
 
         <!-- Sample Form -->
