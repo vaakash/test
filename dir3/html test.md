@@ -27,12 +27,14 @@ order: 1
     <section id="about">
         <h2>About Us</h2>
         <p>We are here to demonstrate the use of HTML tags, CSS styling, and JavaScript in a web page.</p>
+        <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google logo"/>
     </section>
 
     <!-- JavaScript Interaction -->
     <section id="contact">
         <h2>Contact Us</h2>
         <p>Feel free to reach out to us!</p>
+        <img src="/resources/images/icons/git-it-write.png" alt="Git it Write"/>
 
         <!-- Sample JavaScript -->
         <script>
@@ -66,10 +68,8 @@ order: 1
 <style>
     body {
         font-family: 'Arial', sans-serif;
-        background-color: #f0f0f0;
+        background-color: red;
         margin: 0;
-        padding: 20px;
-        text-align: center;
     }
 
     h1 {
