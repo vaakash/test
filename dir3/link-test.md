@@ -3,7 +3,7 @@ title: Link test
 order: 3
 ---
 
-This is a test for URL in markdown.
+This is a test for URL in markdown
 
 ## Plain URL:
 
