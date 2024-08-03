@@ -13,7 +13,6 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 [Youtube link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-
 ## Shortcode with link
 
 [sc name="hello" url="https://www.youtube.com/watch?v=dQw4w9WgXcQ"]
