@@ -12,3 +12,8 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Proper link
 
 [Youtube link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
+Shortcode with link
+
+[sc name="hello" url="https://www.youtube.com/watch?v=dQw4w9WgXcQ"]
