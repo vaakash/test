@@ -3,6 +3,9 @@ title: This post has HTML
 order: 1
 ---
 
+<script src="https://resources.sienci.com/wp-content/react/wizard.js"></script>
+<style>@import url('https://resources.sienci.com/wp-content/react/wizard.css')</style>
+
 <!-- Header Section -->
 <header>
     <h1>Sample HTML Page</h1>
