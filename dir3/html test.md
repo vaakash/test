@@ -6,7 +6,7 @@ order: 1
 <script src="https://resources.sienci.com/wp-content/react/wizard.js"></script>
 <style>@import url('https://resources.sienci.com/wp-content/react/wizard.css')</style>
 
-Test
+Test2
 
 <!-- Header Section -->
 <header>
